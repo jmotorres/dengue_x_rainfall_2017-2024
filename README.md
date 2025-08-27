@@ -1,4 +1,4 @@
-# Dengue_x_Rainfall_2017-2024
+# Dengue x Rainfall (2017-2024)
 This data analysis project explores the relationship between dengue incidence and rainfall intensity across different provinces in the Philippines throughout the years 2017 to 2024.
 
 The project is divided into four sections or notebooks. In each section, I applied statistical concepts and data visualization techniques to uncover patterns which help us form insights into the dynamics of dengue occurrence in the country. By examining historical data on population, rainfall, and dengue cases, this project aims to provide an evidence-based view on one of the key factors that influence disease spread and outbreak. Ultimately, I hope this project can serve as a tool to support better public health intervention and response strategies.
